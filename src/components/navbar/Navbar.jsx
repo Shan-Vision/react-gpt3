@@ -19,9 +19,6 @@ const Menu = () => {
         <a href="#features">Case Studies</a>
       </p>
       <p>
-        <a href="#features">Case Studies</a>
-      </p>
-      <p>
         <a href="#blog">Library</a>
       </p>
     </>
