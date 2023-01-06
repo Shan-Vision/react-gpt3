@@ -18,11 +18,11 @@ const App = () => {
         <Header />
         <Brand />
         <WhatGPT3 />
-      <Features />
-      </div>
-      <Possibility />
-      <Cta />
+        <Features />
+        <Possibility />
+        <Cta />
       <Blog />
+      </div>
       <Footer />
     </div>
   );
